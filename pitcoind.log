@@ -1,0 +1,190 @@
+2022-Oct-01 15:21:17.835384 INFO [daemon] pitcoin v1.1.1.1(0.1-g672625cee3)
+2022-Oct-01 15:21:17.835642 INFO [daemon] Module folder: ./pitcoind
+2022-Oct-01 15:21:17.837432 INFO [daemon] Initializing p2p server...
+2022-Oct-01 15:21:17.837687 INFO [node_server] Binding on 0.0.0.0:14796
+2022-Oct-01 15:21:17.837804 INFO [node_server] Net service binded on 0.0.0.0:14796
+2022-Oct-01 15:21:17.837878 INFO [node_server] Attempting to add IGD port mapping.
+2022-Oct-01 15:21:19.271606 INFO [node_server] Added IGD port mapping.
+2022-Oct-01 15:21:19.271769 INFO [daemon] P2p server initialized OK
+2022-Oct-01 15:21:19.271832 INFO [daemon] Initializing core...
+2022-Oct-01 15:21:19.272218 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2022-Oct-01 15:21:19.331090 INFO [Blockchain] Blockchain initialized. last block: 0, d3741.h14.m21.s19 time ago, current difficulty: 1
+2022-Oct-01 15:21:19.331184 INFO [daemon] Core initialized OK
+2022-Oct-01 15:21:19.331342 INFO [daemon] Starting core rpc server on address 127.0.0.1:25163
+2022-Oct-01 15:21:19.331435 INFO [daemon] Core rpc server started ok
+2022-Oct-01 15:21:19.331479 INFO [daemon] Starting p2p net loop...
+2022-Oct-01 15:21:19.331515 INFO [node_server] Starting node_server
+2022-Oct-01 15:21:19.331777 INFO [protocol] [18.142.107.65:50601 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:19.331777 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:20.079809 ERROR [protocol] [18.142.107.65:50601 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:20.441451 INFO [protocol] [13.251.59.28:36287 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:20.441451 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:21.153935 ERROR [protocol] [13.251.59.28:36287 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:21.237040 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:21.237040 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:21.462203 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:22.174352 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:22.174352 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:22.266100 INFO [protocol] [18.142.107.65:37183 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:22.266100 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:22.399073 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:22.960656 ERROR [protocol] [18.142.107.65:37183 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:23.129510 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:23.129510 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:23.360866 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:23.382020 INFO [protocol] [13.251.59.28:58259 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:23.382020 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:24.056668 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:24.056668 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:24.087748 ERROR [protocol] [13.251.59.28:58259 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:24.278588 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:24.982058 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:24.982058 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:25.213354 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:26.840364 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:26.840364 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:26.840819 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:27.191144 INFO [protocol] [18.142.107.65:39789 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:27.191144 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:27.902294 ERROR [protocol] [18.142.107.65:39789 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:28.314739 INFO [protocol] [13.251.59.28:33711 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:28.314739 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:28.749538 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:28.749538 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:28.749861 INFO [core] 
+2022-Oct-01 15:21:28.749861 INFO [core] **********************************************************************
+2022-Oct-01 15:21:28.749861 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2022-Oct-01 15:21:28.749861 INFO [core] 
+2022-Oct-01 15:21:28.749861 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2022-Oct-01 15:21:28.749861 INFO [core] 
+2022-Oct-01 15:21:28.749861 INFO [core] Use "help" command to see the list of available commands.
+2022-Oct-01 15:21:28.749861 INFO [core] 
+2022-Oct-01 15:21:28.749861 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2022-Oct-01 15:21:28.749861 INFO [core] **********************************************************************
+2022-Oct-01 15:21:28.750574 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:30.136896 INFO [protocol] [18.142.107.65:52059 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:30.136896 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:30.834983 ERROR [protocol] [18.142.107.65:52059 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:32.594184 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:32.594184 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:32.594566 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:33.071801 INFO [protocol] [18.142.107.65:43847 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:33.071801 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:33.783114 ERROR [protocol] [18.142.107.65:43847 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:34.143642 INFO [protocol] [13.251.59.28:56419 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:34.143642 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:34.912421 ERROR [protocol] [13.251.59.28:56419 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:35.513815 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:35.513815 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:35.740328 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:36.016831 INFO [protocol] [18.142.107.65:44933 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:36.016831 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:36.472263 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:36.472263 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:36.702597 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:36.707988 ERROR [protocol] [18.142.107.65:44933 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:37.141868 INFO [protocol] [13.251.59.28:52651 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:37.141868 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:37.840846 ERROR [protocol] [13.251.59.28:52651 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:38.943404 INFO [protocol] [18.142.107.65:52093 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:38.943404 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:39.414610 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:39.414610 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:39.646206 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:39.656314 ERROR [protocol] [18.142.107.65:52093 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:40.074756 INFO [protocol] [13.251.59.28:47889 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:40.074756 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:40.841523 ERROR [protocol] [13.251.59.28:47889 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:41.886789 INFO [protocol] [18.142.107.65:47879 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:41.886789 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:42.337256 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:42.337256 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:42.563877 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:42.590769 ERROR [protocol] [18.142.107.65:47879 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:43.071826 INFO [protocol] [13.251.59.28:52133 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:43.071826 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:43.756967 ERROR [protocol] [13.251.59.28:52133 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:44.823255 INFO [protocol] [18.142.107.65:46341 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:44.823255 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:45.271333 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:45.271333 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:45.502576 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:45.529721 ERROR [protocol] [18.142.107.65:46341 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:46.216914 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:46.216914 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:46.439095 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:47.156321 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:47.156321 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:47.390082 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:47.767010 INFO [protocol] [18.142.107.65:55985 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:47.767010 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:48.098172 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:48.098172 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:48.325878 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:48.476500 ERROR [protocol] [18.142.107.65:55985 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:49.984597 INFO [protocol] [13.251.59.28:41781 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:49.984597 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:50.700944 INFO [protocol] [18.142.107.65:43801 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:50.700944 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:50.763987 ERROR [protocol] [13.251.59.28:41781 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:51.079250 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:51.079250 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:51.311165 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:51.424372 ERROR [protocol] [18.142.107.65:43801 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:52.017448 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:52.017448 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:52.246214 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:52.994053 INFO [protocol] [13.251.59.28:47373 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:52.994053 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:53.040970 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:53.040970 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:53.269561 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:53.661204 INFO [protocol] [18.142.107.65:47371 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:53.661204 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:53.711371 ERROR [protocol] [13.251.59.28:47373 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:54.360414 ERROR [protocol] [18.142.107.65:47371 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:55.933989 INFO [protocol] [13.251.59.28:54451 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:55.933989 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:55.974232 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:55.974232 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:56.206649 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:56.596331 INFO [protocol] [18.142.107.65:59473 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:56.596331 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:56.741455 ERROR [protocol] [13.251.59.28:54451 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:57.321760 ERROR [protocol] [18.142.107.65:59473 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:58.946717 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:58.946717 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:58.972398 INFO [protocol] [13.251.59.28:44833 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:58.972398 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:59.178755 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:59.556244 INFO [protocol] [18.142.107.65:34277 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:59.556244 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:21:59.676679 ERROR [protocol] [13.251.59.28:44833 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:21:59.886221 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:21:59.886221 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:00.115095 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:00.277168 ERROR [protocol] [18.142.107.65:34277 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:01.908250 INFO [protocol] [13.251.59.28:38593 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:01.908250 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:02.507024 INFO [protocol] [18.142.107.65:55819 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:02.507024 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:02.602646 ERROR [protocol] [13.251.59.28:38593 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:02.832101 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:02.832101 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:03.064890 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:03.209600 ERROR [protocol] [18.142.107.65:55819 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:03.760982 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:03.760982 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:03.984530 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:04.687021 INFO [protocol] [18.142.107.65:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:04.687021 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:04.832343 INFO [protocol] [13.251.59.28:60631 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:04.832343 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:04.912565 ERROR [protocol] [18.142.107.65:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:05.442065 INFO [protocol] [18.142.107.65:58055 INC] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:05.442065 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:05.536314 ERROR [protocol] [13.251.59.28:60631 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:05.636453 INFO [protocol] [13.251.59.28:14796 OUT] Sync data returned unknown top block: 0 -> 1608 [1608 blocks (0 days) behind] 
+2022-Oct-01 15:22:05.636453 INFO [protocol] SYNCHRONIZATION started
+2022-Oct-01 15:22:05.867062 ERROR [protocol] [13.251.59.28:14796 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2022-Oct-01 15:22:06.161256 ERROR [protocol] [18.142.107.65:58055 INC] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
